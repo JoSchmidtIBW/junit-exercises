@@ -16,7 +16,7 @@ public class Test111 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Ich bin ein Test");
+        System.out.println("Ich bin ein Test für Git :)");
     }
     
 }
